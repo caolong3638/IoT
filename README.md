@@ -14,9 +14,6 @@ Trong thời đại công nghệ 4.0, nhu cầu về các thiết bị gia dụn
 - Ổ cắm thông minh cho phép giám sát và quản lý mức tiêu thụ điện năng, giúp người dùng giảm lãng phí năng lượng và góp phần bảo vệ môi trường.
 - Tích hợp các tính năng như tự động ngắt khi quá tải, hẹn giờ tắt/mở thiết bị, điều khiển bằng giọng nói hoặc ứng dụng di động, làm cho hệ thống điện trong nhà an toàn và tiện nghi hơn.
 Đề tài này giúp nâng cao các kỹ năng thiết kế phần cứng, lập trình nhúng, phát triển ứng dụng, và khả năng giải quyết vấn đề thực tiễn.
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/caolong3638/IoT.git
 
 ## 🚀 About Us
 We are student from Electric Power University!
