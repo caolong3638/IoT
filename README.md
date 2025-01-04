@@ -1,6 +1,7 @@
 # Welcome to Group 5 Project! 👋
+## 💡Ổ Cắm Điện Thông Minh💡
 
-Chào mừng thầy/cô và các bạn đến với dự án [Ổ Cắm Điện Thông Minh] của nhóm 5.
+Chào mừng thầy/cô và các bạn đến với dự án ⚙ **[Ổ Cắm Điện Thông Minh]** ⚙ của nhóm 5.
 #### Rất mong được nghe đánh giá, đóng góp của quý thầy cô và các bạn ❤❤❤!
 ## Danh Sách Thành Viên Nhóm
 - Thành Viên 1: Trần Cao Long - 21810540475 - D16ĐT&KTMT2
