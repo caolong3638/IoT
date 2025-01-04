@@ -7,6 +7,11 @@ Chào mừng thầy/cô và các bạn đến với dự án [Ổ Cắm Điện 
 - Thành Viên 2: Phạm Anh Dũng - 21810540536 - D16ĐT&KTMT2
 - Thành Viên 3: Trần Quốc Anh - 21810510009 - D16ĐT&KTMT2
 ## Lí Do Chọn Đề Tài
+Trong thời đại công nghệ 4.0, nhu cầu về các thiết bị gia dụng thông minh ngày càng tăng.
+- Ổ cắm điện thông minh giúp nâng cao hiệu quả sử dụng điện, tăng cường an toàn và tiện lợi trong việc điều khiển thiết bị điện từ xa.
+- Ổ cắm thông minh cho phép giám sát và quản lý mức tiêu thụ điện năng, giúp người dùng giảm lãng phí năng lượng và góp phần bảo vệ môi trường.
+- Tích hợp các tính năng như tự động ngắt khi quá tải, hẹn giờ tắt/mở thiết bị, điều khiển bằng giọng nói hoặc ứng dụng di động, làm cho hệ thống điện trong nhà an toàn và tiện nghi hơn.
+Đề tài này giúp nâng cao các kỹ năng thiết kế phần cứng, lập trình nhúng, phát triển ứng dụng, và khả năng giải quyết vấn đề thực tiễn.
 1. Clone this repository:
    ```bash
    git clone https://github.com/caolong3638/IoT.git
