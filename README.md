@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/19db53e9-0d3f-4250-9773-26aff961bb8f)# Welcome to Group 5 Project! 👋
+# Welcome to Group 5 Project! 👋
 ## 💡Ổ Cắm Điện Thông Minh💡
 
 Chào mừng thầy/cô và các bạn đến với dự án ⚙ **[Ổ Cắm Điện Thông Minh]** ⚙ của nhóm 5.
