@@ -1,4 +1,4 @@
-# Welcome to Group 5 Project! 👋
+# Welcome To Group 5's Project! 👋
 ## 💡Ổ Cắm Điện Thông Minh💡
 
 Chào mừng thầy/cô và các bạn đến với dự án ⚙ **[Ổ Cắm Điện Thông Minh]** ⚙ của nhóm 5.
@@ -17,6 +17,6 @@ Trong thời đại công nghệ 4.0, nhu cầu về các thiết bị gia dụn
 Đề tài này giúp nâng cao các kỹ năng thiết kế phần cứng, lập trình nhúng, phát triển ứng dụng, và khả năng giải quyết vấn đề thực tiễn.
 
 ## 🚀 About Us
-We are student from Electric Power University!
+We are students from Electric Power University!
 📍Ha Noi, Viet Nam📍
 
