@@ -8,6 +8,7 @@ Chào mừng thầy/cô và các bạn đến với dự án ⚙ **[Ổ Cắm Đ
 - Thành Viên 2: Phạm Anh Dũng - 21810540536 - D16ĐT&KTMT2
 - Thành Viên 3: Trần Quốc Anh - 21810510009 - D16ĐT&KTMT2
 - Thành Viên 4: Nguyễn Trọng Tín - 21810540487 - D16ĐT&KTMT2
+- Thành Viên 5: Vũ Đức Trọng - 21810540499 - D16ĐT&KTMT2
 ## Lí Do Chọn Đề Tài
 Trong thời đại công nghệ 4.0, nhu cầu về các thiết bị gia dụng thông minh ngày càng tăng.
 - Ổ cắm điện thông minh giúp nâng cao hiệu quả sử dụng điện, tăng cường an toàn và tiện lợi trong việc điều khiển thiết bị điện từ xa.
@@ -17,5 +18,5 @@ Trong thời đại công nghệ 4.0, nhu cầu về các thiết bị gia dụn
 
 ## 🚀 About Us
 We are student from Electric Power University!
-📍Ha Noi, Viet Nam
+📍Ha Noi, Viet Nam📍
 
