@@ -1,4 +1,4 @@
-# Welcome to the Project of Group 5!! 👋
+
 ## 💡Ổ Cắm Điện Thông Minh💡
 
 Chào mừng thầy/cô và các bạn đến với dự án ⚙ **[Ổ Cắm Điện Thông Minh]** ⚙ của nhóm 5.
